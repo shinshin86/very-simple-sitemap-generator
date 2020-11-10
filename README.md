@@ -1,5 +1,7 @@
 # very-simple-sitemap-generator
 
+[![Build Status](https://travis-ci.org/shinshin86/very-simple-sitemap-generator.svg?branch=main)](https://travis-ci.org/shinshin86/very-simple-sitemap-generator)
+
 Very simple sitemap generator.
 
 ## Usage
