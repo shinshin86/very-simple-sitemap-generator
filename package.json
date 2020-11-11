@@ -7,7 +7,7 @@
     "test": "jest",
     "build": "tsc",
     "prepublishOnly": "npm run build",
-    "fmt": "prettier --write '**/*.{ts,json,md}'"
+    "fmt": "prettier --write '**/*.{ts,js,json,md}'"
   },
   "files": [
     "dist"
