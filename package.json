@@ -4,7 +4,7 @@
   "description": "Very simple sitemap generator.",
   "main": "dist/index.js",
   "scripts": {
-    "test": "jest",
+    "test": "tsc && jest",
     "build": "tsc",
     "prepublishOnly": "npm run build",
     "fmt": "prettier --write '**/*.{ts,js,json,md}'"
