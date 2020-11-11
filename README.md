@@ -4,6 +4,14 @@
 
 Very simple sitemap generator.
 
+## Install
+
+```bash
+npm i very-simple-sitemap-generator
+# or
+yarn add very-simple-sitemap-generator
+```
+
 ## Usage
 
 ```javascript
@@ -72,4 +80,14 @@ console.log(sitemap); // ↓↓↓
   </url>
 </urlset>
 */
+```
+
+## Development
+
+```bash
+# test
+npm run test
+
+# code format
+npm run fmt
 ```
